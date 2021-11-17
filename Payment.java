@@ -1,3 +1,5 @@
+package ru.imit.omsu;
+
 import java.util.Objects;
 
 public class Payment
